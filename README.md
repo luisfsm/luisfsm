@@ -1,5 +1,5 @@
-### Ola , Sou o Luis Felipe 👋
-Apaixonado por games e Desenvolvimento 
+### Olá , sou o Luis Felipe 👋
+Apaixonado por games e programação
 
 <!--
 **luisfsm/luisfsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
