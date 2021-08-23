@@ -1,5 +1,4 @@
 ### Olá , sou o Luis Felipe 👋
-Apaixonado por games e programação
 
 <div>
   <a href="https://github.com/luisfsm">
