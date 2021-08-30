@@ -1,5 +1,5 @@
 ### Olá , sou o Luis Felipe 👋
-
+Apaixoando por Programação :computer:, Games :video_game: , Livros :book:
 
 <div>
   <a href="https://github.com/luisfsm">
