@@ -9,11 +9,13 @@ Apaixoando por Programação :computer:, Games :video_game: , e Livros :book:
 <div style="display: inline_block"><br>
   
 
-  
+  <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/c-sharp-logo.png">
   <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/java.png">
   <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/spring-logo.png">
   <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/javascript--v1.png">
   <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/typescript.png">
+  <img align="center" height="30" width="40" src="https://img.icons8.com/officel/452/react.png">
+  <img align="center" height="30" width="40" src="https://img.icons8.com/color/344/angularjs.png">
 </div>
  
   ##
