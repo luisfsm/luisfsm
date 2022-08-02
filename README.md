@@ -9,10 +9,11 @@ Apaixoando por Programação :computer:, Games :video_game: , e Livros :book:
 <div style="display: inline_block"><br>
   
 
-  <img align="center" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
-  <img align="center" height="30" width="40" src="https://image.flaticon.com/icons/png/512/2772/2772165.png">
+  
+  <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/java.png">
   <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/spring-logo.png">
   <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/javascript--v1.png">
+  <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/typescript.png">
 </div>
  
   ##
